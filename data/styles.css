@@ -1,0 +1,268 @@
+﻿.ax_default {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.heading_base {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:44px;
+  color:#1D1D1E;
+}
+.image {
+}
+.placeholder {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.heading_1 {
+  font-family:'Roboto', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:44px;
+  color:#1D1D1E;
+  text-align:left;
+  line-height:56px;
+}
+.heading_2 {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Lato Regular', 'Lato', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:24px;
+  color:#797979;
+  text-align:right;
+}
+.heading_4 {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'Lato Bold', 'Lato Regular', 'Lato', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:50px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.heading_6 {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.paragraph {
+  font-family:'SF Pro Text', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:22px;
+  text-align:left;
+}
+.line {
+}
+.arrow {
+}
+.radio_button {
+  text-align:left;
+}
+.tree_node {
+  text-align:left;
+}
+.connector {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.flow_shape {
+}
+.box_1 {
+}
+.box_2 {
+}
+.ellipse {
+}
+.small_text {
+  font-family:'OCR-A ', 'OCR-A', sans-serif;
+  font-weight:500;
+  font-style:normal;
+  font-size:16px;
+  letter-spacing:1.1px;
+}
+.new_style {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:31px;
+  color:#FFFFFF;
+  text-align:right;
+}
+._неактивная_ссылка {
+  font-family:'Open Sans Light', 'Open Sans Regular', 'Open Sans', sans-serif;
+  font-weight:300;
+  font-style:normal;
+  color:#4E699F;
+  text-align:left;
+}
+._активнакя_ссылка {
+  font-family:'Open Sans SemiBold', 'Open Sans Regular', 'Open Sans', sans-serif;
+  font-weight:600;
+  font-style:normal;
+  letter-spacing:-0.6px;
+  color:#4E699F;
+  text-align:left;
+}
+.link_button {
+  color:#169BD5;
+}
+._доллары {
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:23px;
+  color:#6A6A6A;
+  text-align:left;
+}
+._рубли {
+  font-family:'Lato Regular', 'Lato', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:15px;
+  color:#B9BBBD;
+  text-align:left;
+}
+.icon {
+}
+.mainmenutext {
+  font-family:'Open Sans Bold', 'Open Sans Regular', 'Open Sans', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  color:#4E699F;
+}
+.box_3 {
+}
+.rollingmenutext {
+  font-family:'Open Sans Light', 'Open Sans Regular', 'Open Sans', sans-serif;
+  font-weight:300;
+  font-style:normal;
+  color:#4E699F;
+  text-align:left;
+}
+._главное_меню {
+  font-family:'Open Sans SemiBold', 'Open Sans Regular', 'Open Sans', sans-serif;
+  font-weight:600;
+  font-style:normal;
+  font-size:17px;
+  letter-spacing:0.7px;
+  color:#4E699F;
+}
+._главное_подменю {
+  font-family:'Open Sans Light', 'Open Sans Regular', 'Open Sans', sans-serif;
+  font-weight:300;
+  font-style:normal;
+  color:#4E699F;
+  text-align:left;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+._плитки {
+  font-family:'Lato', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#6A6A6A;
+  text-align:left;
+}
+._жирный_текст {
+  font-family:'Open Sans SemiBold', 'Open Sans Regular', 'Open Sans', sans-serif;
+  font-weight:600;
+  font-style:normal;
+  letter-spacing:0.3px;
+  color:#4E699F;
+  text-align:right;
+}
+._заголовоктовара {
+  font-family:'Montserrat SemiBold', 'Montserrat', sans-serif;
+  font-weight:600;
+  font-style:normal;
+  font-size:24px;
+  letter-spacing:0.1px;
+  text-align:left;
+}
+._неактивный_список {
+  font-family:'Open Sans SemiBold', 'Open Sans Regular', 'Open Sans', sans-serif;
+  font-weight:600;
+  font-style:normal;
+  color:#6A6A6A;
+  text-align:left;
+}
+._подменю {
+  font-family:'Open Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:11px;
+  color:#6A6A6A;
+  text-align:left;
+}
+._активный_список {
+  font-family:'Open Sans Bold', 'Open Sans Regular', 'Open Sans', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  letter-spacing:normal;
+  color:#395282;
+  text-align:left;
+}
+._плиткизаголовок {
+  font-family:'Montserrat SemiBold', 'Montserrat', sans-serif;
+  font-weight:600;
+  font-style:normal;
+  font-size:17px;
+  color:#6A6A6A;
+  text-align:left;
+}
+.heading_phone {
+  font-family:'Roboto', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:28px;
+  color:#1D1D1E;
+  text-align:center;
+  line-height:32px;
+}
+.defract {
+  font-family:'Roboto Bold Oblique', 'Roboto Bold', 'Roboto Regular', 'Roboto', sans-serif;
+  font-weight:700;
+  font-style:oblique;
+  font-size:24px;
+  letter-spacing:2px;
+  text-align:center;
+  line-height:48px;
+}
+textarea, select, input, button { outline: none; }
